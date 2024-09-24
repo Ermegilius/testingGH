@@ -1,4 +1,5 @@
 # testingGH
+
 1. Create a new GH rep.
 2. Create local rep.
 3. IN rand file write down all steps of the task.
@@ -7,4 +8,4 @@
 6. Make changes to the remote one.
 7. Do the same on local.
 8. Solve merge conflict.
-9. Update the readme with a merge solution.
+9. The easiest way to solve a megre conflict is to delete local git and create a new one without forgetting TO PULL FIRST!
